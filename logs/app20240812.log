@@ -1,0 +1,6 @@
+2024-08-12 20:54:23.387 -03:00 [INF] Confirmação de que as coisas estão funcionando como esperado.
+2024-08-12 20:54:30.166 -03:00 [WRN]  Um indicativo de que algo inesperado aconteceu, ou uma indicação de algum problema no futuro (ex.: “cerca de 80% do disco foi utilizado”).
+2024-08-12 20:54:32.431 -03:00 [ERR] Devido a um problema mais grave, o software não conseguiu realizar alguma função.
+2024-08-12 20:54:34.689 -03:00 [FTL] Um erro grave, indicando que o programa pode não conseguir continuar em execução.
+2024-08-12 20:56:11.304 -03:00 [DBG] Informações detalhadas, tipicamente de interesse apenas ao diagnosticar problemas.
+2024-08-12 20:56:19.766 -03:00 [DBG] Informações detalhadas, tipicamente de interesse apenas ao diagnosticar problemas.
