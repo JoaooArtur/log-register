@@ -3,6 +3,8 @@ using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddConfigureOptions();
+
 builder
     .ConfigureLogging()
     .ConfigureServiceProvider()
