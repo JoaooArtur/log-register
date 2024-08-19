@@ -47,6 +47,6 @@ Para rodar o projeto, siga os passos abaixo:
 
 ## Links Úteis
 
-- **[Vídeo Explicativo](#)** 
+- **[Vídeo Explicativo](https://youtu.be/n9dz-16Es08)** 
 - **[Dashboard Datadog](https://p.datadoghq.com/sb/9159a714-5b4f-11ef-af2b-025c0c443a64-6f804b14d754b576af40fffe9d23ac63)**
 
